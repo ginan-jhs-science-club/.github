@@ -20,11 +20,4 @@ jobs:
           filename: general.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header
-          config_order: base.header, notable, discussions, topics
-          output_action: gist
-          plugin_topics: yes
-          plugin_topics_limit: 20
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 8
+          config_order: base.header
