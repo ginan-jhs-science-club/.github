@@ -8,12 +8,9 @@ on:
     - cron: "* 6,9,12,15,20 * * *"
 
 jobs:
-  terraform:
-    name: test
+  github-metrics-general:
+    name: metrics-general
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -24,20 +21,12 @@ jobs:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.PRIVATE_KEY }}
           installation_id: 188683
-      - name: use token
-        run: echo "$GITHUB_TOKEN"
-        env:
-          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
-  github-metrics-general:
-    name: metrics-general
-    runs-on: ubuntu-latest
-    steps:
       - uses: lowlighter/metrics@latest
         with:
           user: ginan-jhs-science-club
           config_gemoji: yes
           config_timezone: Asia/Tokyo
           filename: general.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ steps.generate_token.outputs.token }}
           base: header
           config_order: base.header
