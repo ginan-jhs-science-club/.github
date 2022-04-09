@@ -24,7 +24,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: ginan-jhs-science-club
-          config_gemoji: yes
           config_timezone: Asia/Tokyo
           filename: general.svg
           token: ${{ steps.generate_token.outputs.token }}
