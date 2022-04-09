@@ -1,7 +1,5 @@
 # 日本国岐阜県羽島郡岐南町立岐南中学校科学部
 
-<img src="/general.svg" alt="GitHub Metrics" style="text-align=center;">
-
 ## About us
 
 我々は、**化**学・自然科学・ICTを軸にした活動をしています。
@@ -23,3 +21,5 @@
 <a href="https://w.wiki/4yFG">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" width="50">
 </a>
+
+<img src="/general.svg" alt="GitHub Metrics" style="text-align=center;">
