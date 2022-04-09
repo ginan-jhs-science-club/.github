@@ -26,6 +26,6 @@ jobs:
           config_gemoji: yes
           config_timezone: Asia/Tokyo
           filename: general.svg
-          token: ${{ steps.generate_token.outputs.token }}
+          token: ${{ steps.generate-token.outputs.token }}
           base: header
           config_order: base.header
