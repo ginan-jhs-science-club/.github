@@ -4,7 +4,7 @@
 
 我々は、**化**学・自然科学・ICTを軸にした活動をしています。
 
-### Technologies
+### Technologies/Tools
 
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
