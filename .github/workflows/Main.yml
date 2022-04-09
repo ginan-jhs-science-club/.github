@@ -20,7 +20,6 @@ jobs:
         with:
           app_id: ${{ secrets.APP_ID }}
           private_key: ${{ secrets.PRIVATE_KEY }}
-          installation_id: 188683
       - uses: lowlighter/metrics@latest
         with:
           user: ginan-jhs-science-club
