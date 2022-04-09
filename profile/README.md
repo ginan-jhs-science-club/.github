@@ -1,6 +1,6 @@
 # 日本国岐阜県羽島郡岐南町立岐南中学校科学部
 
-<img src="/general.svg" alt="GitHub Metrics">
+<img src="/general.svg" alt="GitHub Metrics" style="text-align=center;">
 
 ## About us
 
