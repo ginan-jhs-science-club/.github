@@ -13,8 +13,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: ginan-jhs-science-club
-          config_timezone: Asia/Tokyo
           filename: general.svg
           token: ${{ secrets.GH_TOKEN }}
-          base: header
-          config_order: base.header
+
