@@ -3,3 +3,15 @@
 ## About us
 
 我々は、**化**学・自然科学・ICTを軸にした活動をしています。
+
+### Technologies
+
+<a href="https://w.wiki/3PyA">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
+</a>
+<a href="https://w.wiki/3Q2Z">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
+</a>
+<a href="https://w.wiki/45PM">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+</a>
