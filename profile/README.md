@@ -12,6 +12,9 @@
 <a href="https://w.wiki/3Q2Z">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50">
 </a>
+<a href="https://w.wiki/3EDd">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
+</a>
 <a href="https://w.wiki/45PM">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
 </a>
