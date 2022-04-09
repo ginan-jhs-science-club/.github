@@ -4,7 +4,7 @@
 
 我々は、**化**学・自然科学・ICTを軸にした活動をしています。
 
-### Technologies/Tools
+### Technologies/Tools etc...
 
 <a href="https://w.wiki/3PyA">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="50">
@@ -17,4 +17,7 @@
 </a>
 <a href="https://w.wiki/45PM">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+</a>
+<a href="https://w.wiki/4yFG">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" width="50">
 </a>
